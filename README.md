@@ -9,14 +9,21 @@ Improving Forecasting Explainability in Fashion Retail with Bayesian Method(PyBA
 
 PyBATS is hosted on _PyPI_ and can be installed with pip:
 
-    $ pip install pybats
-
-The most recent development version is hosted on [GitHub](https://github.com/lavinei/pybats). You can download and install from there:
-
-```
-$ git clone git@github.com:lavinei/pybats.git pybats
-$ cd pybats
-$ sudo python setup.py install
-```
+     pip install pybats
 
 ## Quick Start
+
+```bash
+git clone git@github.com:nitsourish/Forecasting-Explainability-with-PyBATS.git
+```
+and then navigate to 
+
+```bash
+cd Forecasting-Explainability-with-PyBATS
+```
+install the dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
